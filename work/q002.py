@@ -1,4 +1,4 @@
-age = int(18)
+age = 18
 print(f"You are {age} years old.")
 print(f"Next year you will be {age + 1} years old.")
 
